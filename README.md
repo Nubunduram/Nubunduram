@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studiying Web Developoment
+- 🌱 I’m currently learning MERN stack
+- 📫 How to reach me: caron.antoine.pro@gmail.com
+
+
 <!--
 **Nubunduram/Nubunduram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
