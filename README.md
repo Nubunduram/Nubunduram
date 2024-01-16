@@ -1,8 +1,20 @@
-# Hello 🌍👋
-- 👀 Looking for oportunities
-- 🔭 I’m currently studiying Web Developoment
-- 📫 How to reach me: caron.antoine.pro@gmail.com
-- 🌍 Originally from France, i am fluent in english and live in germany
+<h1 align="center">Hello 🌍, I am Antoine Caron</h1>
+<p align="center"><strong>Passionate Web Developer</strong></p>
+<br> 
+
+ - 👀 Looking for oportunities
+ - 🔭 I’m currently studiying Web Developoment
+ - 📫 How to reach me: caron.antoine.pro@gmail.com
+ - 🌍 Originally from France, I am fluent in English and currently located in Germany
+
+<br>
+<br>
+<br>
+
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubunduram" url="https://github-readme-stats.vercel.app/api/top-langs/?username=nubunduram">
+</div>
+
 
 <!--
 **Nubunduram/Nubunduram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
