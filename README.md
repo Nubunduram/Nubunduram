@@ -1,9 +1,8 @@
-### Hi there 👋
-
+### Hello 🌍👋
+- 👀 Looking for oportunities
 - 🔭 I’m currently studiying Web Developoment
-- 🌱 I’m currently learning MERN stack
 - 📫 How to reach me: caron.antoine.pro@gmail.com
-
+- 🌍 Originally from France, i am fluent in english and live in germany
 
 <!--
 **Nubunduram/Nubunduram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
