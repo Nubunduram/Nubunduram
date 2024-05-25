@@ -5,7 +5,7 @@
  - 👀 Looking for oportunities
  - 🔭 I’m currently studying Web Developoment
  - 📫 How to reach me: caron.antoine.pro@gmail.com
- - 🌍 Originally from France, I am fluent in English and currently located in Germany (Hamburg)
+ - 🌍 Originally from France, I am fluent in English
 
 <br>
 <br>
