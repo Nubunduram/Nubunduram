@@ -3,7 +3,7 @@
 <br> 
 
  - 👀 Looking for oportunities
- - 🔭 I’m currently studying Web Developoment
+ - 🔭 I’m focused on Fron-End
  - 📫 How to reach me: caron.antoine.pro@gmail.com
  - 🌍 Originally from France, I am fluent in English
 
