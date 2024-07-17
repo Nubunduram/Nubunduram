@@ -3,7 +3,6 @@
 <br> 
 
  - 👀 Looking for oportunities
- - 🔭 I’m focused on Front-End
  - 📫 How to reach me: caron.antoine.pro@gmail.com
  - 🌍 Originally from France, I am fluent in English
 
